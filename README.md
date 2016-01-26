@@ -1,4 +1,4 @@
-# Design_Files
+# Ada_3D_model_files
 
 This repositorty contains all the CAD models for Open Bionics products. 
 The files are created in Blender, a free to use program available from www.blender.org.
