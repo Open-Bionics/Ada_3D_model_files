@@ -1,7 +1,10 @@
 # Ada_3D_model_files
 
-This repositorty contains all the CAD models for Open Bionics products. 
-The files are created in Blender, a free to use program available from www.blender.org.
+This folder contains the design files for the Ada hand. 
+The Ada hand is named after Ada Lovelace, "the first computer programmer". 
+This hand is not a prosthesis, it is intended as a development kit. 
+Components such as the circuit board and motors are available for purchase soon from www.openbionics.com
 
-All files in this repository are licensed under the Creative Commons Attribution-ShareAlike 4.0 International. 
-https://creativecommons.org/licenses/by-sa/4.0/
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
+org.
