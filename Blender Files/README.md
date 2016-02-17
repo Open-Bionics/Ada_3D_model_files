@@ -1,5 +1,5 @@
 This repositorty contains all the CAD models for Open Bionics products. 
-The files are created in Blender, a free to use program available from www.blender.com
+The files are created in Blender, a free to use program available from www.blender.org
 
 Several of the "Boolean" models that are easier to design parametrically are created in Autodesk Fusion 360. These included in the Blender files, having been exported from Fusion 360 as an STL. Fusion 360 is available from http://www.autodesk.co.uk/products/fusion-360/overview
 
