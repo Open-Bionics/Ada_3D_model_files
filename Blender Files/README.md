@@ -1,5 +1,3 @@
-KNOWN PROBLEM WITH PCB TRAY BOOLEAN: The PCB tray Boolean is not applying. All parts are manifold and there is no error message. STLs are correct. 
-
 This repositorty contains all the CAD models for Open Bionics products. 
 The files are created in Blender, a free to use program available from www.blender.org
 
